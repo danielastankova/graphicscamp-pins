@@ -1,0 +1,32 @@
+# Publishes the week's pins through the official Pinterest API (after Standard access is approved).
+# Needs repository secrets: PINTEREST_CLIENT_ID, PINTEREST_CLIENT_SECRET, PINTEREST_REFRESH_TOKEN.
+# The weekly plan is the bulk CSV saved as plans/current.csv (and plans/next.csv for the following week).
+name: Post pins
+on:
+  workflow_dispatch: {}
+  # Enable after Standard access is approved:
+  # schedule:
+  #   - cron: "5 * * * *"   # every hour at :05 UTC
+concurrency: post-pins
+permissions:
+  contents: write
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Post due pins
+        env:
+          PINTEREST_CLIENT_ID: ${{ secrets.PINTEREST_CLIENT_ID }}
+          PINTEREST_CLIENT_SECRET: ${{ secrets.PINTEREST_CLIENT_SECRET }}
+          PINTEREST_REFRESH_TOKEN: ${{ secrets.PINTEREST_REFRESH_TOKEN }}
+          PINTEREST_TOKEN_FILE: /tmp/token.json
+          PINTEREST_POSTED_FILE: plans/posted.json
+        run: |
+          for f in plans/current.csv plans/next.csv; do [ -f "$f" ] && python tools/pinterest_poster.py post-due "$f"; done
+      - name: Save posted log
+        run: |
+          git config user.name "pin-bot"; git config user.email "pin-bot@users.noreply.github.com"
+          git add plans/posted.json 2>/dev/null && git commit -m "Posted pins log" && git push || echo "nothing to commit"
