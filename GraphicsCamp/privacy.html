@@ -1,27 +1,116 @@
-<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>GraphicsCamp Pinterest Poster - Privacy Policy</title>
-<style>body{font-family:system-ui,Arial,sans-serif;max-width:760px;margin:40px auto;padding:0 16px;line-height:1.6;color:#122B45}h1{font-size:1.6em}h2{font-size:1.15em;margin-top:1.6em}</style></head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GraphicsCamp – Privacy Policy</title>
+<meta name="description" content="Privacy policy for the GraphicsCamp Pinterest app, a private single-user tool that publishes GraphicsCamp's own pins to its own Pinterest business account.">
+<style>
+  :root {
+    --bg: #ffffff;
+    --text: #1d2b3c;
+    --muted: #55657a;
+    --accent: #c9473b;
+    --rule: #dde3ea;
+    --band: #152b46;
+    --band-text: #ffffff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #101a28;
+      --text: #e6ebf2;
+      --muted: #9fb0c4;
+      --accent: #f08a7e;
+      --rule: #263548;
+      --band: #0b1320;
+      --band-text: #ffffff;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.65;
+  }
+  header {
+    background: var(--band);
+    color: var(--band-text);
+    padding: 2.5rem 1.25rem;
+    border-bottom: 6px solid #ee7468;
+  }
+  .wrap { max-width: 44rem; margin: 0 auto; }
+  header h1 { margin: 0 0 .35rem; font-size: 1.9rem; line-height: 1.2; }
+  header p { margin: 0; opacity: .85; }
+  main { padding: 2rem 1.25rem 3rem; }
+  h2 {
+    margin: 2.25rem 0 .6rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--rule);
+    font-size: 1.25rem;
+    line-height: 1.3;
+  }
+  h2:first-of-type { margin-top: 0; padding-top: 0; border-top: 0; }
+  p, ul { margin: 0 0 1rem; }
+  ul { padding-left: 1.25rem; }
+  li { margin-bottom: .4rem; }
+  a { color: var(--accent); text-underline-offset: 2px; }
+  a:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: .92em;
+    background: var(--rule);
+    padding: .1em .35em;
+    border-radius: 4px;
+  }
+  .updated { color: var(--muted); font-size: .95rem; }
+</style>
+</head>
 <body>
-<h1>Privacy Policy - GraphicsCamp Pinterest Poster</h1>
-<p>Last updated: 12 November 2026</p>
-<p>GraphicsCamp Pinterest Poster ("the app") is a private, single-user tool operated by GraphicsCamp, a small Etsy shop that sells printable routines and calm-down tools for kids (<a href="https://graphicscamp.etsy.com">graphicscamp.etsy.com</a>). The app publishes GraphicsCamp's own product pins to GraphicsCamp's own Pinterest business account on a weekly schedule. It is not offered to other Pinterest users.</p>
-<h2>What Pinterest data the app accesses</h2>
-<ul>
-<li>Basic account information of the connected GraphicsCamp Pinterest account (username, account type), to confirm the right account is connected.</li>
-<li>The account's own boards (names and IDs), to put each pin on the correct board.</li>
-<li>The pins the app creates (pin ID), to avoid publishing the same pin twice.</li>
-</ul>
-<p>The app does not read, collect or store data about other Pinterest users, followers, audiences or analytics.</p>
-<h2>How the data is used and stored</h2>
-<ul>
-<li>Authentication uses Pinterest OAuth only. The app never asks for or stores Pinterest passwords or session cookies.</li>
-<li>OAuth access and refresh tokens are stored only on the shop owner's own computer or as encrypted secrets of the shop's private automation, and are used only to call the Pinterest API on behalf of the GraphicsCamp account.</li>
-<li>A small log of created pin IDs is kept so that no pin is published twice.</li>
-<li>No Pinterest data is sold, shared with third parties, or used for advertising or profiling.</li>
-</ul>
-<h2>Retention and deletion</h2>
-<p>Tokens are deleted when access is revoked. The account owner can revoke the app's access at any time in Pinterest settings (Settings &gt; Security and logins &gt; Apps). Pin logs are deleted after 90 days.</p>
-<h2>Contact</h2>
-<p>Questions about this policy: contact GraphicsCamp through the Etsy shop page <a href="https://graphicscamp.etsy.com">graphicscamp.etsy.com</a> ("Message seller").</p>
-</body></html>
+<header>
+  <div class="wrap">
+    <h1>GraphicsCamp Privacy Policy</h1>
+    <p>How the GraphicsCamp Pinterest app handles data</p>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <p class="updated">Last updated: 26 November 2026</p>
+
+    <h2>About this app</h2>
+    <p>GraphicsCamp (“the app”) is a private, single-user tool operated by GraphicsCamp, a small Etsy shop based in Sofia, Bulgaria, that sells printable routines, chore charts and calm-down tools for children (<a href="https://www.etsy.com/shop/GraphicsCamp">etsy.com/shop/GraphicsCamp</a>).</p>
+    <p>The app publishes GraphicsCamp’s own product pins to GraphicsCamp’s own Pinterest business account on a weekly schedule. It is not offered to other Pinterest users or to the public.</p>
+
+    <h2>What Pinterest data the app accesses</h2>
+    <p>The app uses Pinterest’s official OAuth authorization and requests only these scopes: <code>user_accounts:read</code>, <code>boards:read</code>, <code>pins:read</code> and <code>pins:write</code>. It uses them to:</p>
+    <ul>
+      <li>read basic information about the connected GraphicsCamp account (username and account type) to confirm the right account is connected;</li>
+      <li>read the account’s own boards (names and IDs) so each pin is placed on the correct board;</li>
+      <li>create pins and record each created pin’s ID so the same pin is never published twice.</li>
+    </ul>
+    <p>The app does not read, collect or store data about other Pinterest users, followers, audiences or analytics.</p>
+
+    <h2>How data is used and stored</h2>
+    <ul>
+      <li>Authentication uses Pinterest OAuth only. The app never asks for or stores Pinterest passwords or session cookies.</li>
+      <li>OAuth access and refresh tokens are stored only on the shop owner’s own computer or as encrypted GitHub Actions secrets, and are used only to call the Pinterest API on behalf of the GraphicsCamp account.</li>
+      <li>A small log of created pin IDs is kept to prevent duplicate posts.</li>
+      <li>The app does not scrape Pinterest.</li>
+      <li>No Pinterest data is sold, shared with third parties, or used for advertising or profiling.</li>
+    </ul>
+
+    <h2>Retention and deletion</h2>
+    <p>Tokens are deleted when access is revoked. The account owner can revoke the app’s access at any time in Pinterest’s account settings. Logs of created pin IDs are deleted after 90 days.</p>
+
+    <h2>Changes to this policy</h2>
+    <p>If the app’s use of Pinterest data changes, this page will be updated and the date above will change.</p>
+
+    <h2>Contact</h2>
+    <p>Questions about this policy: contact GraphicsCamp through the Etsy shop page, <a href="https://www.etsy.com/shop/GraphicsCamp">etsy.com/shop/GraphicsCamp</a> (“Contact shop owner”).</p>
+  </div>
+</main>
+</body>
+</html>
