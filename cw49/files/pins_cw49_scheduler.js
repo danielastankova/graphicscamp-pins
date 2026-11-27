@@ -1,4 +1,4 @@
-// GraphicsCamp CW49 (30 Nov - 6 Dec 2026, Pink + Cyber Week version of 25 Nov) SCHEDULER, 35 pins: posts each pin at its time while this tab is open. Run in the browser console on pinterest.com while in the BUSINESS account.
+// GraphicsCamp CW49 (30 Nov - 6 Dec 2026, decor week, version of 27 Nov) SCHEDULER, 35 pins: posts each pin at its time while this tab is open. Run in the browser console on pinterest.com while in the BUSINESS account.
 // F12 -> Console -> paste -> Enter. Uses Pinterest's own web endpoints with your login session (unofficial).
 (async () => {
   const USER = "graphicscampshop";
@@ -14,44 +14,44 @@
   "alt": "Room Reset System for Kids, My Personal Room Reset Checklist Printable. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
-  "board": "Christmas Printables for Kids",
-  "title": "Calm Christmas Advent Calendar for Kids, Printable Countdown Starts December 1",
-  "description": "Advent starts tomorrow! Print this calm advent calendar tonight and give kids one kind or calming activity for each of the 24 days before Christmas, like a warm drink, a kind note or holiday music. Cyber Week: 50% off in the shop until December 1. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4615998302?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin02",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_02_4615998302.png?v=1",
+  "board": "Pink Christmas Decor",
+  "title": "Pink Christmas Wall Art Set, 26 Coquette Bow Christmas Prints to Print at Home",
+  "description": "Pink Christmas wall art for a cozy holiday gallery wall: a Christmas tree with pink bows, a striped coquette bow, Santa with a present, a reindeer and a pink heart snowflake. Pick your favorites from 26 prints, print them at home and frame them for a girls room, nursery or living room. Cyber Week: 50% off in the shop until December 1. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4606588813?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin02",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_02_4606588813.png?v=1",
   "ts": 1796050800,
   "when": "2026-11-30T17:00:00",
-  "alt": "Calm Christmas Advent Calendar for Kids, Printable Countdown Starts December 1. Printable from GraphicsCamp on Etsy, instant download."
- },
- {
-  "board": "Pink Christmas Decor",
-  "title": "Pink Christmas Wall Art Set, Printable Pink Christmas Gallery Wall Prints",
-  "description": "A pink Christmas gallery wall you can print at home: a pink gingerbread cottage, a bow wreath, a Christmas tree with pink bows, a heart snowflake and gingham trees. Frame them for a girls room, nursery or cozy holiday corner. Cyber Week: 50% off in the shop until December 1. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4606588813?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin03",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_03_4606588813.png?v=1",
-  "ts": 1796061600,
-  "when": "2026-11-30T20:00:00",
-  "alt": "Pink Christmas Wall Art Set, Printable Pink Christmas Gallery Wall Prints. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Pink Christmas Wall Art Set, 26 Coquette Bow Christmas Prints to Print at Home. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Christmas Printables for Kids",
-  "title": "Christmas Printables Bundle for Kids, Advent, Social Stories and Schedules",
-  "description": "Calm holiday weeks start here: an advent calendar, gift and family visit social stories, a holiday chore chart and a Christmas break day schedule, plus more. 8 printables for ADHD and autistic kids in one bundle. Cyber Week: 50% off in the shop until December 1. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4618485132?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin04",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_04_4618485132.png?v=1",
-  "ts": 1796070600,
-  "when": "2026-11-30T22:30:00",
-  "alt": "Christmas Printables Bundle for Kids, Advent, Social Stories and Schedules. Printable from GraphicsCamp on Etsy, instant download."
+  "title": "Whimsical Christmas Decor, Scandinavian Woodland Wall Art Prints",
+  "description": "Whimsical Christmas decor in soft neutral colors: a woodland fox, a deer with a little bird, a snowy Christmas tree, a winter bunny and a penguin. 18 Scandinavian style prints for a calm, cozy holiday wall in a nursery, kids room or living room. Cyber Week: 50% off in the shop until December 1. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4614203166?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin03",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_03_4614203166.png?v=1",
+  "ts": 1796061600,
+  "when": "2026-11-30T20:00:00",
+  "alt": "Whimsical Christmas Decor, Scandinavian Woodland Wall Art Prints. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Pink Christmas Decor",
-  "title": "Pink Christmas Bundle, Printable Wall Art, Gift Tags and Picture Bingo",
-  "description": "Decor, tags and a game in one pink Christmas bundle: 26 printable wall art prints, 24 matching gift tags and a picture bingo game with 30 cards. One sweet coquette look for your walls, presents and holiday party. Cyber Week: 50% off in the shop until December 1. Printable PDFs: posters in A2 + 2:3 ratio, gift tags and bingo in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4624273985?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin05",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_05_4624273985.png?v=1",
+  "title": "Pink Christmas Tree Ideas, Pink Christmas Tree Wall Art Prints",
+  "description": "Pink Christmas tree ideas for your walls: a tree with pink bows, three gingham trees, presents, pink ornaments and a bow wreath. A set of 6 printable posters that turns any corner into a soft pink Christmas display. Cyber Week: 50% off in the shop until December 1. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4624273661?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin04",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_04_4624273661.png?v=1",
+  "ts": 1796070600,
+  "when": "2026-11-30T22:30:00",
+  "alt": "Pink Christmas Tree Ideas, Pink Christmas Tree Wall Art Prints. Printable from GraphicsCamp on Etsy, instant download."
+ },
+ {
+  "board": "Christmas Printables for Kids",
+  "title": "Printable Christmas Cards, 74 Christmas Cards to Print at Home",
+  "description": "Printable Christmas cards in many styles: a fox in a pink scarf, a gingerbread house, a holly wreath, Santa and more. 74 designs in A6 and 4x6 inch, so you can print as many cards as you need tonight for family, friends and teachers. Cyber Week: 50% off in the shop until December 1. Printable PDF cards in A6 + 4x6 in, instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4626436809?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin05",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_05_4626436809.png?v=1",
   "ts": 1796079600,
   "when": "2026-12-01T01:00:00",
-  "alt": "Pink Christmas Bundle, Printable Wall Art, Gift Tags and Picture Bingo. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Printable Christmas Cards, 74 Christmas Cards to Print at Home. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "ADHD Printables for Kids",
@@ -64,44 +64,44 @@
   "alt": "Executive Function Toolkit for Kids, ADHD Routine Cards and Reward Charts. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
-  "board": "Christmas Printables for Kids",
-  "title": "Scandinavian Christmas Wall Art, 18 Whimsical Woodland Prints Printable",
-  "description": "A Scandi Christmas gallery wall in soft neutral colors: a woodland fox, a snowy village, a little Christmas tree, a deer and a polar bear. 18 whimsical prints to frame for a nursery or kids room. Cyber Week: 50% off in the shop until December 1. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4614203166?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin07",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_07_4614203166.png?v=1",
+  "board": "Pink Christmas Decor",
+  "title": "Coquette Christmas Decor, Pink Bow Christmas Wall Art Set",
+  "description": "Coquette Christmas decor with big pink bows: a classic pink bow, a bow on pink stripes and Holly Jolly Season typography. A set of 6 printable posters for a girly, soft pink holiday room. Cyber Week: 50% off in the shop until December 1. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4624273773?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin07",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_07_4624273773.png?v=1",
   "ts": 1796137200,
   "when": "2026-12-01T17:00:00",
-  "alt": "Scandinavian Christmas Wall Art, 18 Whimsical Woodland Prints Printable. Printable from GraphicsCamp on Etsy, instant download."
- },
- {
-  "board": "Pink Christmas Decor",
-  "title": "Pink Christmas Bundle for Girls Room, Coquette Christmas Decor Printables",
-  "description": "Everything pink for Christmas: a rocking horse, stockings, presents with pink bows, a nutcracker and a Santa This Way sign, plus matching gift tags and picture bingo. One bundle, one sweet holiday look. Cyber Week: 50% off in the shop until December 1. Printable PDFs: posters in A2 + 2:3 ratio, gift tags and bingo in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4624273985?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin08",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_08_4624273985.png?v=1",
-  "ts": 1796148000,
-  "when": "2026-12-01T20:00:00",
-  "alt": "Pink Christmas Bundle for Girls Room, Coquette Christmas Decor Printables. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Coquette Christmas Decor, Pink Bow Christmas Wall Art Set. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Christmas Printables for Kids",
-  "title": "Christmas Printables Bundle for Kids, Calm Holiday Printables for ADHD",
-  "description": "Calm Christmas printables for kids: gnome feelings cards, a kindness advent calendar, a gift exchange social story, a holiday chore chart and a family visit story, all in one bundle for busy December days. Cyber Week: 50% off in the shop until December 1. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4618485132?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin09",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_09_4618485132.png?v=1",
-  "ts": 1796157000,
-  "when": "2026-12-01T22:30:00",
-  "alt": "Christmas Printables Bundle for Kids, Calm Holiday Printables for ADHD. Printable from GraphicsCamp on Etsy, instant download."
+  "title": "Christmas Wall Art for Kids Room, 30 Woodland Christmas Prints",
+  "description": "Christmas wall art for a kids room: a fox carrying a tree, a bear and bunny reading a story, a penguin with a wreath, a mouse with presents and a deer with a bird. Choose from 30 colorful woodland prints to print and frame at home. Cyber Week: 50% off in the shop until December 1. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4604914759?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin08",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_08_4604914759.png?v=1",
+  "ts": 1796148000,
+  "when": "2026-12-01T20:00:00",
+  "alt": "Christmas Wall Art for Kids Room, 30 Woodland Christmas Prints. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Pink Christmas Decor",
-  "title": "Coquette Christmas Wall Art, Pink Christmas Decor Printable Posters",
-  "description": "Coquette Christmas walls in soft pink: a nutcracker, a heart snowflake, presents with bows, a polar bear in a pink scarf and a candy cane. Print at home and frame for an easy pink holiday room. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4606588813?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin10",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_10_4606588813.png?v=1",
+  "title": "Pink Christmas Room Decor Bundle, Wall Art, Gift Tags and Bingo",
+  "description": "Pink Christmas room decor in one bundle: a pink rocking horse print, pink picture bingo cards and matching gift tags. 26 wall art prints, 24 gift tags and 30 bingo cards, all printable, for a soft pink holiday at home. Cyber Week: 50% off in the shop until December 1. Printable PDFs: posters in A2 + 2:3 ratio, gift tags and bingo in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4624273985?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin09",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_09_4624273985.png?v=1",
+  "ts": 1796157000,
+  "when": "2026-12-01T22:30:00",
+  "alt": "Pink Christmas Room Decor Bundle, Wall Art, Gift Tags and Bingo. Printable from GraphicsCamp on Etsy, instant download."
+ },
+ {
+  "board": "Christmas Printables for Kids",
+  "title": "Neutral Christmas Decor, Merry Christmas and Wreath Wall Art Prints",
+  "description": "Neutral Christmas decor in warm cream tones: Merry Christmas, It's the most wonderful time of the year and a red bow wreath. A set of 6 simple printable posters for a calm, minimal holiday home. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4624545215?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin10",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_10_4624545215.png?v=1",
   "ts": 1796166000,
   "when": "2026-12-02T01:00:00",
-  "alt": "Coquette Christmas Wall Art, Pink Christmas Decor Printable Posters. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Neutral Christmas Decor, Merry Christmas and Wreath Wall Art Prints. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "ADHD Morning Routine Chart",
@@ -114,44 +114,44 @@
   "alt": "Morning and Bedtime Routine Bundle, Picture Routine Posters for Kids. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
-  "board": "Christmas Printables for Kids",
-  "title": "Christmas Break Visual Schedule for Kids, Snow Day Activity Cards",
-  "description": "Snow day tomorrow? Plan it! Kids choose cards like build a snowman, make snow angels and a pajama day, then stick them on their day board so the whole day feels calm and clear. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4614268621?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin12",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_12_4614268621.png?v=1",
+  "board": "Pink Christmas Decor",
+  "title": "Pink Christmas Nursery Decor, Fox, Polar Bear and Snowman Prints",
+  "description": "Pink Christmas nursery decor: a fox and a polar bear in pink scarves, a reindeer, a snowman with a pink hat and a pink rocking horse. A set of 6 printable posters for a sweet baby or toddler room at Christmas. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4624280188?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin12",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_12_4624280188.png?v=1",
   "ts": 1796223600,
   "when": "2026-12-02T17:00:00",
-  "alt": "Christmas Break Visual Schedule for Kids, Snow Day Activity Cards. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Pink Christmas Nursery Decor, Fox, Polar Bear and Snowman Prints. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
-  "board": "Pink Christmas Decor",
-  "title": "Pink Christmas Posters Printable, Ho Ho Ho and Holly Jolly Season Prints",
-  "description": "Ho ho ho in pink! Big pink bow, Ho Ho Ho and Holly Jolly Season typography prints make quick, budget-friendly Christmas decor. Print at home, hang and enjoy the season. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4606588813?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin13",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_13_4606588813.png?v=1",
+  "board": "Christmas Printables for Kids",
+  "title": "Woodland Christmas Decor, Fox, Penguin and Bunny Wall Art Set",
+  "description": "Woodland Christmas decor in a soft Scandinavian style: a little fox, a penguin in a knit hat and a winter bunny. A set of 6 printable animal posters for a nursery, playroom or kids room. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4624544949?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin13",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_13_4624544949.png?v=1",
   "ts": 1796234400,
   "when": "2026-12-02T20:00:00",
-  "alt": "Pink Christmas Posters Printable, Ho Ho Ho and Holly Jolly Season Prints. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Woodland Christmas Decor, Fox, Penguin and Bunny Wall Art Set. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
-  "board": "ADHD Printables for Kids",
-  "title": "Christmas Printables for Kids Bundle, Advent, Feelings Cards and Schedules",
-  "description": "Busy December? Print these: a calm advent calendar, a sensory social story, gnome feelings cards, holiday chore cards and a First Then Next board. 8 Christmas printables for ADHD and autistic kids. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4618485132?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin14",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_14_4618485132.png?v=1",
+  "board": "Christmas Printables for Kids",
+  "title": "Festive Animal Christmas Prints, Colorful Kids Room Wall Art Set",
+  "description": "Festive animal Christmas prints in bright colors: a fox carrying a tree, a bunny decorating the tree and a raccoon with a gift. A set of 6 printable posters for a happy kids room or playroom. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4624952959?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin14",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_14_4624952959.png?v=1",
   "ts": 1796243400,
   "when": "2026-12-02T22:30:00",
-  "alt": "Christmas Printables for Kids Bundle, Advent, Feelings Cards and Schedules. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Festive Animal Christmas Prints, Colorful Kids Room Wall Art Set. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
-  "board": "Pink Christmas Decor",
-  "title": "Pink Christmas Gift Tags Printable, Coquette To From Tags for Presents",
-  "description": "Gift tags in pretty pink: 24 printable to/from tags with a Christmas tree, bows, Santa, a fox, a polar bear and a snowman. Print, cut, punch a hole and add ribbon for sweet holiday presents. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4624253210?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin15",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_15_4624253210.png?v=1",
+  "board": "Christmas Printables for Kids",
+  "title": "Christmas Gift Tags Printable Bundle, 72 Tags in 3 Styles",
+  "description": "Christmas gift tags printable in three styles: Scandinavian woodland, bright kids woodland and soft pink. 72 to/from tags to print, cut and tie onto every present under the tree. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4626016332?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin15",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_15_4626016332.png?v=1",
   "ts": 1796252400,
   "when": "2026-12-03T01:00:00",
-  "alt": "Pink Christmas Gift Tags Printable, Coquette To From Tags for Presents. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Christmas Gift Tags Printable Bundle, 72 Tags in 3 Styles. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Chore Chart for Kids",
@@ -164,44 +164,44 @@
   "alt": "Room Reset System for Boys, Before I Begin Reset Starter Printable. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
-  "board": "Christmas Printables for Kids",
-  "title": "Woodland Christmas Wall Art for Kids Room, Printable Holiday Animal Posters",
-  "description": "Woodland friends for the holidays: a hedgehog with a candy cane, Joy Peace Love and a penguin with a gift. Printable Christmas posters for a cozy kids room or playroom. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4604914759?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin17",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_17_4604914759.png?v=1",
+  "board": "Pink Christmas Decor",
+  "title": "Pink Christmas Room Ideas, Holly Jolly and Pink Reindeer Prints",
+  "description": "Pink Christmas room ideas for a girls room: Holly Jolly Season typography and a reindeer with a pink bow above a cozy reading corner. 2 of 26 coquette bow Christmas prints you can print at home. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4606588813?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin17",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_17_4606588813.png?v=1",
   "ts": 1796310000,
   "when": "2026-12-03T17:00:00",
-  "alt": "Woodland Christmas Wall Art for Kids Room, Printable Holiday Animal Posters. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Pink Christmas Room Ideas, Holly Jolly and Pink Reindeer Prints. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
-  "board": "Pink Christmas Decor",
-  "title": "Pink Christmas Bundle Printable, Wall Art, Gift Tags and Bingo Cards",
-  "description": "Pink decor, tags and bingo: a reindeer with a pink bow, a pink snowman, plus printable gift tags and a picture bingo game. The full pink Christmas collection in one bundle. Printable PDFs: posters in A2 + 2:3 ratio, gift tags and bingo in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4624273985?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin18",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_18_4624273985.png?v=1",
+  "board": "Christmas Printables for Kids",
+  "title": "Scandinavian Christmas Decor Bundle, Prints, Gift Tags and Bingo",
+  "description": "Scandinavian Christmas decor in one bundle: a deer with a robin, neutral picture bingo cards and matching gift tags. 18 wall art prints, 18 gift tags and a bingo game, all printable at home. Printable PDFs: posters in A2 + 2:3 ratio, gift tags and bingo in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4624545333?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin18",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_18_4624545333.png?v=1",
   "ts": 1796320800,
   "when": "2026-12-03T20:00:00",
-  "alt": "Pink Christmas Bundle Printable, Wall Art, Gift Tags and Bingo Cards. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Scandinavian Christmas Decor Bundle, Prints, Gift Tags and Bingo. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
-  "board": "ADHD Printables for Kids",
-  "title": "Christmas Activity Bundle for ADHD and Autistic Kids, 8 Calm Printables",
-  "description": "8 calm Christmas printables in one bundle: feelings cards with cozy gnomes, a kindness advent calendar, a holiday chore chart, social stories and visual schedules for busy holiday weeks. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4618485132?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin19",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_19_4618485132.png?v=1",
+  "board": "Christmas Printables for Kids",
+  "title": "Winter Animal Wall Art, Skiing Bear, Skating Bunny and Snowboard Hedgehog",
+  "description": "Winter animal wall art full of fun: a bear skiing, a bunny ice skating and a hedgehog snowboarding through the pines. A set of 6 printable winter posters for a kids room or playroom. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4624953127?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin19",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_19_4624953127.png?v=1",
   "ts": 1796329800,
   "when": "2026-12-03T22:30:00",
-  "alt": "Christmas Activity Bundle for ADHD and Autistic Kids, 8 Calm Printables. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Winter Animal Wall Art, Skiing Bear, Skating Bunny and Snowboard Hedgehog. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Pink Christmas Decor",
-  "title": "Printable Pink Christmas Decor, Christmas Wall Art to Print at Home",
-  "description": "Print at home pink Christmas decor: a rocking horse, bow ornaments, a fox in a pink scarf, a reindeer and Fa La La La typography. Instant digital prints for an easy holiday makeover. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4606588813?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin20",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_20_4606588813.png?v=1",
+  "title": "Coquette Bow Christmas Print, Big Pink Bow Wall Art",
+  "description": "A coquette bow Christmas print: one big soft pink bow in a simple frame. Part of a set of 6 printable pink bow posters for a girly holiday room or nursery. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4624273773?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin20",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_20_4624273773.png?v=1",
   "ts": 1796338800,
   "when": "2026-12-04T01:00:00",
-  "alt": "Printable Pink Christmas Decor, Christmas Wall Art to Print at Home. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Coquette Bow Christmas Print, Big Pink Bow Wall Art. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Chore Chart for Kids",
@@ -214,44 +214,44 @@
   "alt": "Chore Chart and Room Reset Bundle for Kids, Picture Chores and Room Homes. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
-  "board": "Christmas Printables for Kids",
-  "title": "Gift Exchange Social Story for Kids, Choosing a Christmas Present",
-  "description": "Picking a gift for someone special: this Christmas social story shows kids how to think about what a person likes, needs or enjoys, and how good it feels to give. Includes a caregiver guide. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4615998436?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin22",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_22_4615998436.png?v=1",
+  "board": "Pink Christmas Decor",
+  "title": "Pink Christmas Decor Ideas, Pink Christmas Bundle Printables",
+  "description": "Pink Christmas decor ideas for your walls: Santa with a present, a polar bear in a pink scarf, pink ornaments, plus gift tags and bingo cards from the same set. 26 prints, 24 tags and 30 bingo cards in one pink bundle. Printable PDFs: posters in A2 + 2:3 ratio, gift tags and bingo in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4624273985?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin22",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_22_4624273985.png?v=1",
   "ts": 1796396400,
   "when": "2026-12-04T17:00:00",
-  "alt": "Gift Exchange Social Story for Kids, Choosing a Christmas Present. Printable from GraphicsCamp on Etsy, instant download."
- },
- {
-  "board": "Pink Christmas Decor",
-  "title": "Pink Christmas Picture Bingo for Kids, Printable Christmas Bingo Game",
-  "description": "Pink Christmas bingo night: 30 picture bingo cards with trees, bows, Santa and snowmen, plus calling cards and bow markers. A cute holiday party game for kids, families and classrooms. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4624253374?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin23",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_23_4624253374.png?v=1",
-  "ts": 1796407200,
-  "when": "2026-12-04T20:00:00",
-  "alt": "Pink Christmas Picture Bingo for Kids, Printable Christmas Bingo Game. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Pink Christmas Decor Ideas, Pink Christmas Bundle Printables. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Christmas Printables for Kids",
-  "title": "Christmas Activities for ADHD Kids, Calm Holiday Printables Bundle",
-  "description": "Calm kids, calm December: a kindness advent calendar and gnome feelings cards are part of a bundle of 8 Christmas printables that help kids through busy holiday weeks. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4618485132?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin24",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_24_4618485132.png?v=1",
+  "title": "Snowy Christmas Village Print, Scandinavian Winter Landscape Wall Art",
+  "description": "A snowy Christmas village print: little houses, pine trees and soft snow in calm Scandinavian colors. Part of a set of 6 printable winter landscape posters for a cozy holiday home. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4624549584?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin23",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_23_4624549584.png?v=1",
+  "ts": 1796407200,
+  "when": "2026-12-04T20:00:00",
+  "alt": "Snowy Christmas Village Print, Scandinavian Winter Landscape Wall Art. Printable from GraphicsCamp on Etsy, instant download."
+ },
+ {
+  "board": "Christmas Printables for Kids",
+  "title": "Kids Christmas Decor Bundle, Woodland Prints, Gift Tags and Bingo",
+  "description": "Kids Christmas decor in one bright bundle: a fox decorating the tree, colorful picture bingo cards and woodland gift tags. 30 wall art prints, 30 gift tags and a bingo game, all printable at home. Printable PDFs: posters in A2 + 2:3 ratio, gift tags and bingo in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4624953451?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin24",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_24_4624953451.png?v=1",
   "ts": 1796416200,
   "when": "2026-12-04T22:30:00",
-  "alt": "Christmas Activities for ADHD Kids, Calm Holiday Printables Bundle. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Kids Christmas Decor Bundle, Woodland Prints, Gift Tags and Bingo. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Pink Christmas Decor",
-  "title": "Pink Christmas Bundle, Coquette Bow and Fox Prints for Girls Room",
-  "description": "A pink Christmas corner: a fox in a pink scarf and a big coquette bow on stripes are two of 26 prints in the Pink Christmas Bundle, together with matching gift tags and picture bingo. Printable PDFs: posters in A2 + 2:3 ratio, gift tags and bingo in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4624273985?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin25",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_25_4624273985.png?v=1",
+  "title": "Pink Ornament Christmas Print, Pink Christmas Tree Wall Art",
+  "description": "A pink ornament Christmas print: three bow ornaments hanging from a holly branch in soft pink and red. Part of a set of 6 pink Christmas tree posters you print and frame at home. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4624273661?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin25",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_25_4624273661.png?v=1",
   "ts": 1796425200,
   "when": "2026-12-05T01:00:00",
-  "alt": "Pink Christmas Bundle, Coquette Bow and Fox Prints for Girls Room. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Pink Ornament Christmas Print, Pink Christmas Tree Wall Art. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Chore Chart for Kids",
@@ -265,43 +265,43 @@
  },
  {
   "board": "Christmas Printables for Kids",
-  "title": "Neutral Christmas Decor Printable, Scandinavian Woodland Christmas Prints",
-  "description": "Neutral Christmas decor to print: a winter bunny, ornaments, It's the most wonderful time of the year, a snowy cottage and a wreath. 18 whimsical Scandi prints for a calm holiday nursery. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4614203166?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin27",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_27_4614203166.png?v=1",
+  "title": "Christmas Quote Prints, Be Kind Be Merry and Joy Peace Love Wall Art",
+  "description": "Christmas quote prints in happy colors: Be Kind Be Merry on a Christmas tree and Joy Peace Love in bright letters. A set of 6 printable quote posters for a kids room or classroom. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4624953293?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin27",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_27_4624953293.png?v=1",
   "ts": 1796482800,
   "when": "2026-12-05T17:00:00",
-  "alt": "Neutral Christmas Decor Printable, Scandinavian Woodland Christmas Prints. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Christmas Quote Prints, Be Kind Be Merry and Joy Peace Love Wall Art. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Pink Christmas Decor",
-  "title": "Pink Christmas Tree Wall Art Printable, Christmas Tree Pink Bows Poster",
-  "description": "One pink tree, big holiday mood: a Christmas tree with pink bows makes a simple framed poster for a girls room or nursery. Part of a printable pink Christmas wall art set. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4606588813?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin28",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_28_4606588813.png?v=1",
+  "title": "Girls Room Christmas Decor, Pink Fox and Polar Bear Prints",
+  "description": "Girls room Christmas decor in soft pink: a fox and a polar bear wrapped in cozy pink scarves. Part of a set of 6 pink nursery Christmas prints to print and frame at home. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4624280188?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin28",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_28_4624280188.png?v=1",
   "ts": 1796493600,
   "when": "2026-12-05T20:00:00",
-  "alt": "Pink Christmas Tree Wall Art Printable, Christmas Tree Pink Bows Poster. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Girls Room Christmas Decor, Pink Fox and Polar Bear Prints. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Christmas Printables for Kids",
-  "title": "Christmas Printables Bundle for Busy Parents, Holiday Chores and Social Stories",
-  "description": "Holiday helpers for busy parents: a holiday chore chart, a visiting family social story and a gift exchange story are part of 8 calm Christmas printables for kids in one bundle. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4618485132?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin29",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_29_4618485132.png?v=1",
+  "title": "Woodland Animal Christmas Prints, Deer and Penguin Wall Art",
+  "description": "Woodland animal Christmas prints in a calm Scandinavian style: a deer with a robin and a penguin in a knit hat. Part of a set of 6 printable animal posters for a nursery or kids room. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4624544949?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin29",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_29_4624544949.png?v=1",
   "ts": 1796502600,
   "when": "2026-12-05T22:30:00",
-  "alt": "Christmas Printables Bundle for Busy Parents, Holiday Chores and Social Stories. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Woodland Animal Christmas Prints, Deer and Penguin Wall Art. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
-  "board": "Pink Christmas Decor",
-  "title": "Christmas Gift Tags Printable Pink, To From Santa Tags with Bows",
-  "description": "To: you, from: Santa. Pink printable gift tags with a rocking horse, a snowflake, Ho Ho Ho and Let It Snow make presents look sweet. Print as many as you need. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4624253210?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin30",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_30_4624253210.png?v=1",
+  "board": "Christmas Printables for Kids",
+  "title": "Christmas Cards to Print at Home, 74 Printable Holiday Cards",
+  "description": "Christmas cards to print at home: a pink gingerbread cottage and pink presents are 2 of 74 card designs in A6 and 4x6 inch. Print, fold or cut and write your message, no waiting for the mail. Printable PDF cards in A6 + 4x6 in, instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4626436809?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin30",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_30_4626436809.png?v=1",
   "ts": 1796511600,
   "when": "2026-12-06T01:00:00",
-  "alt": "Christmas Gift Tags Printable Pink, To From Santa Tags with Bows. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Christmas Cards to Print at Home, 74 Printable Holiday Cards. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "ADHD Printables for Kids",
@@ -314,44 +314,44 @@
   "alt": "Executive Function Toolkit for Kids, Calm Down and Reward Chart Printables. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
-  "board": "Christmas Printables for Kids",
-  "title": "Visiting Family for Christmas Social Story, More People and More Noise",
-  "description": "More people, more noise? A holiday visit social story prepares kids for busy family gatherings and reminds them they can use calming tools and take a quiet break when it feels like a lot. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4616030263?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin32",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_32_4616030263.png?v=1",
+  "board": "Pink Christmas Decor",
+  "title": "Coquette Christmas Prints, Pink Bow, Fox, Candy Cane and Reindeer",
+  "description": "Coquette Christmas prints in soft pink: a big pink bow, a fox in a pink scarf, a candy cane with a bow and a reindeer. 4 of 26 printable Christmas posters for a girls room or nursery. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4606588813?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin32",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_32_4606588813.png?v=1",
   "ts": 1796569200,
   "when": "2026-12-06T17:00:00",
-  "alt": "Visiting Family for Christmas Social Story, More People and More Noise. Printable from GraphicsCamp on Etsy, instant download."
- },
- {
-  "board": "Pink Christmas Decor",
-  "title": "The Pink Christmas Bundle: 26 Wall Art Prints, Gift Tags and Bingo",
-  "description": "The pink Christmas bundle: Ho Ho Ho and Holly Jolly prints, a pink cottage, printable gift tags and picture bingo cards. Decorate, wrap and play with one matching pink set. Printable PDFs: posters in A2 + 2:3 ratio, gift tags and bingo in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4624273985?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin33",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_33_4624273985.png?v=1",
-  "ts": 1796580000,
-  "when": "2026-12-06T20:00:00",
-  "alt": "The Pink Christmas Bundle: 26 Wall Art Prints, Gift Tags and Bingo. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Coquette Christmas Prints, Pink Bow, Fox, Candy Cane and Reindeer. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Christmas Printables for Kids",
-  "title": "Holiday Printables Bundle for Kids, Calm Christmas Toolkit for ADHD and Autism",
-  "description": "The calm Christmas bundle: First Then Next board, break day schedule, advent calendar, gnome feelings cards and social stories. Visual supports for every busy December day. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4618485132?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin34",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_34_4618485132.png?v=1",
+  "title": "Kids Christmas Wall Art, Holly Jolly Hedgehog and Gingerbread House",
+  "description": "Kids Christmas wall art in bright colors: a holly jolly hedgehog, a polar bear with cocoa, a gingerbread house at night, a penguin with gifts and a pink reindeer. Choose from 30 woodland prints. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4604914759?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin33",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_33_4604914759.png?v=1",
+  "ts": 1796580000,
+  "when": "2026-12-06T20:00:00",
+  "alt": "Kids Christmas Wall Art, Holly Jolly Hedgehog and Gingerbread House. Printable from GraphicsCamp on Etsy, instant download."
+ },
+ {
+  "board": "Christmas Printables for Kids",
+  "title": "Scandi Christmas Decor, Snowy Cottage, Merry Christmas and Snowman",
+  "description": "Scandi Christmas decor in soft neutrals: a snowy cottage, Merry Christmas typography and a snowman. 3 of 18 whimsical woodland prints to print at home for a calm holiday wall. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4614203166?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin34",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_34_4614203166.png?v=1",
   "ts": 1796589000,
   "when": "2026-12-06T22:30:00",
-  "alt": "Holiday Printables Bundle for Kids, Calm Christmas Toolkit for ADHD and Autism. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Scandi Christmas Decor, Snowy Cottage, Merry Christmas and Snowman. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Pink Christmas Decor",
-  "title": "Christmas Bingo Calling Cards, Pink Christmas Picture Bingo Printable",
-  "description": "Call it, cover it, bingo! Picture calling cards with a cottage, presents, stockings, a tree and more go with 30 pink Christmas bingo cards and bow markers. Fun for class parties and family nights. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
+  "title": "Christmas Bingo for Kids, Pink Picture Bingo Game",
+  "description": "Christmas bingo for kids: 30 pink picture bingo cards with Santa, bows, presents and Holly Jolly Season, plus calling cards. An easy printable game for class parties and family game night. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
   "link": "https://www.etsy.com/listing/4624253374?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin35",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49b_35_4624253374.png?v=1",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_35_4624253374.png?v=1",
   "ts": 1796598000,
   "when": "2026-12-07T01:00:00",
-  "alt": "Christmas Bingo Calling Cards, Pink Christmas Picture Bingo Printable. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Christmas Bingo for Kids, Pink Picture Bingo Game. Printable from GraphicsCamp on Etsy, instant download."
  }
 ];
   const csrf = (document.cookie.match(/csrftoken=([^;]+)/) || [])[1];
@@ -383,7 +383,7 @@
   }
   // 2) post each pin when its time comes. Keep this tab open; if the laptop was off, overdue pins go out
   //    (one every ~2 min) the next time you run the script. Already-posted pins are remembered in this browser.
-  const KEY = "gc_posted_cw49";
+  const KEY = "gc_posted_cw49c";
   const done = new Set(JSON.parse(localStorage.getItem(KEY) || "[]"));
   // Safety 2: a pin more than 3 hours late is skipped, not posted (protects against reruns after a browser restart).
   const MAX_LATE = 3 * 3600 * 1000;
