@@ -194,14 +194,14 @@
   "alt": "Winter Animal Wall Art, Skiing Bear, Skating Bunny and Snowboard Hedgehog. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
-  "board": "Pink Christmas Decor",
-  "title": "Coquette Bow Christmas Print, Big Pink Bow Wall Art",
-  "description": "A coquette bow Christmas print: one big soft pink bow in a simple frame. Part of a set of 6 printable pink bow posters for a girly holiday room or nursery. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4624273773?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin20",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_20_4624273773.png?v=1",
+  "board": "Christmas Printables for Kids",
+  "title": "Letter to Santa Printable, Dear Santa Letter Template for Kids",
+  "description": "A letter to Santa printable for kids: a sweet pink Dear Santa page with lines for their Christmas wishes, signed with love. Print it at home tonight and mail it to the North Pole or leave it out with the cookies. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4626960853?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin20",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49s_1_4626960853.png?v=1",
   "ts": 1796338800,
   "when": "2026-12-04T01:00:00",
-  "alt": "Coquette Bow Christmas Print, Big Pink Bow Wall Art. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Letter to Santa Printable, Dear Santa Letter Template for Kids. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Chore Chart for Kids",
@@ -285,13 +285,13 @@
  },
  {
   "board": "Christmas Printables for Kids",
-  "title": "Woodland Animal Christmas Prints, Deer and Penguin Wall Art",
-  "description": "Woodland animal Christmas prints in a calm Scandinavian style: a deer with a robin and a penguin in a knit hat. Part of a set of 6 printable animal posters for a nursery or kids room. Printable poster PDFs in A2 + 2:3 ratio (16x24 in), instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4624544949?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin29",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49c_29_4624544949.png?v=1",
+  "title": "Christmas Wish List for Kids, Printable Wish List and Santa Letter",
+  "description": "A Christmas wish list for kids in pink and woodland styles: a numbered wish list, a draw my Christmas wishes page and a fill in letter to Santa. Easy pages for little ones to share their wishes. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4626960853?utm_source=pinterest&utm_medium=social&utm_campaign=cw49_pin29",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw49/cw49s_2_4626960853.png?v=1",
   "ts": 1796502600,
   "when": "2026-12-05T22:30:00",
-  "alt": "Woodland Animal Christmas Prints, Deer and Penguin Wall Art. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Christmas Wish List for Kids, Printable Wish List and Santa Letter. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Christmas Printables for Kids",

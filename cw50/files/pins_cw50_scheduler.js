@@ -215,13 +215,13 @@
  },
  {
   "board": "Christmas Printables for Kids",
-  "title": "Christmas Break Schedule for Kids, Visual Day Board Printable",
-  "description": "A Christmas break schedule kids can build themselves: activity cards for baking, crafts, games and outdoor time on a picture day board. It makes long winter break days feel calm. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4614268621?utm_source=pinterest&utm_medium=social&utm_campaign=cw50_pin22",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw50/cw50c_22_4614268621.png?v=1",
+  "title": "Kids Christmas List Ideas, Draw My Christmas Wishes Printable",
+  "description": "Kids Christmas list ideas made fun: on the Draw My Christmas Wishes page kids draw each wish in a box and write its name. Part of a printable Christmas wish list and Santa letter set. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4626960853?utm_source=pinterest&utm_medium=social&utm_campaign=cw50_pin22",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw50/cw50s_1_4626960853.png?v=1",
   "ts": 1797001200,
   "when": "2026-12-11T17:00:00",
-  "alt": "Christmas Break Schedule for Kids, Visual Day Board Printable. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Kids Christmas List Ideas, Draw My Christmas Wishes Printable. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Christmas Printables for Kids",
@@ -324,14 +324,14 @@
   "alt": "Calm Christmas for Kids, Sensory Social Story for the Holidays. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
-  "board": "Autism Visual Schedule",
-  "title": "Christmas Social Stories for Kids, Prepare for Holiday Days",
-  "description": "Christmas social stories for kids: choosing a hug or a wave, gift time, when Christmas feels like a lot and opening presents gently. Read them together before the big days. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
-  "link": "https://www.etsy.com/listing/4618478623?utm_source=pinterest&utm_medium=social&utm_campaign=cw50_pin33",
-  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw50/cw50c_33_4618478623.png?v=1",
+  "board": "Christmas Printables for Kids",
+  "title": "Santa Letter Template, Fill In Letter to Santa for Kids",
+  "description": "A Santa letter template kids can fill in themselves: their name and age, what they did well this year, three Christmas wishes and a treat for Santa and the reindeer. Print at home in minutes. Printable PDF in A4 + US Letter, instant download from GraphicsCamp on Etsy.",
+  "link": "https://www.etsy.com/listing/4626960853?utm_source=pinterest&utm_medium=social&utm_campaign=cw50_pin33",
+  "image_url": "https://raw.githubusercontent.com/danielastankova/graphicscamp-pins/main/cw50/cw50s_2_4626960853.png?v=1",
   "ts": 1797184800,
   "when": "2026-12-13T20:00:00",
-  "alt": "Christmas Social Stories for Kids, Prepare for Holiday Days. Printable from GraphicsCamp on Etsy, instant download."
+  "alt": "Santa Letter Template, Fill In Letter to Santa for Kids. Printable from GraphicsCamp on Etsy, instant download."
  },
  {
   "board": "Christmas Printables for Kids",
